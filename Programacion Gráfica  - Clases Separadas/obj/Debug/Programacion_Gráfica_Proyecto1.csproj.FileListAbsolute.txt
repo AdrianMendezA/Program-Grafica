@@ -1,0 +1,66 @@
+C:\Users\adria\Downloads\ELC102-Proyecto1-tarea-1 (1)\ELC102-Proyecto1-tarea-1\bin\Debug\Proyecto1_01.exe.config
+C:\Users\adria\Downloads\ELC102-Proyecto1-tarea-1 (1)\ELC102-Proyecto1-tarea-1\bin\Debug\Proyecto1_01.exe
+C:\Users\adria\Downloads\ELC102-Proyecto1-tarea-1 (1)\ELC102-Proyecto1-tarea-1\bin\Debug\Proyecto1_01.pdb
+C:\Users\adria\Downloads\ELC102-Proyecto1-tarea-1 (1)\ELC102-Proyecto1-tarea-1\bin\Debug\OpenTK.dll
+C:\Users\adria\Downloads\ELC102-Proyecto1-tarea-1 (1)\ELC102-Proyecto1-tarea-1\bin\Debug\OpenTK.pdb
+C:\Users\adria\Downloads\ELC102-Proyecto1-tarea-1 (1)\ELC102-Proyecto1-tarea-1\bin\Debug\OpenTK.xml
+C:\Users\adria\Downloads\ELC102-Proyecto1-tarea-1 (1)\ELC102-Proyecto1-tarea-1\obj\Debug\Programacion_Gráfica_Proyecto1.csproj.AssemblyReference.cache
+C:\Users\adria\Downloads\ELC102-Proyecto1-tarea-1 (1)\ELC102-Proyecto1-tarea-1\obj\Debug\Programacion_Gráfica_Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\adria\Downloads\ELC102-Proyecto1-tarea-1 (1)\ELC102-Proyecto1-tarea-1\obj\Debug\Programacion_Gráfica_Proyecto1.csproj.CopyComplete
+C:\Users\adria\Downloads\ELC102-Proyecto1-tarea-1 (1)\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.exe
+C:\Users\adria\Downloads\ELC102-Proyecto1-tarea-1 (1)\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.pdb
+E:\Programacion Gráfica  - Clases Separadas\bin\Debug\Proyecto1_01.exe.config
+E:\Programacion Gráfica  - Clases Separadas\bin\Debug\Proyecto1_01.exe
+E:\Programacion Gráfica  - Clases Separadas\bin\Debug\Proyecto1_01.pdb
+E:\Programacion Gráfica  - Clases Separadas\bin\Debug\OpenTK.dll
+E:\Programacion Gráfica  - Clases Separadas\bin\Debug\OpenTK.pdb
+E:\Programacion Gráfica  - Clases Separadas\bin\Debug\OpenTK.xml
+E:\Programacion Gráfica  - Clases Separadas\obj\Debug\Programacion_Gráfica_Proyecto1.csprojAssemblyReference.cache
+E:\Programacion Gráfica  - Clases Separadas\obj\Debug\Programacion_Gráfica_Proyecto1.csproj.CoreCompileInputs.cache
+E:\Programacion Gráfica  - Clases Separadas\obj\Debug\Programacion_Gráfica_Proyecto1.csproj.CopyComplete
+E:\Programacion Gráfica  - Clases Separadas\obj\Debug\Proyecto1_01.exe
+E:\Programacion Gráfica  - Clases Separadas\obj\Debug\Proyecto1_01.pdb
+F:\Programacion Gráfica  - Clases Separadas\bin\Debug\Proyecto1_01.exe.config
+F:\Programacion Gráfica  - Clases Separadas\bin\Debug\Proyecto1_01.exe
+F:\Programacion Gráfica  - Clases Separadas\bin\Debug\Proyecto1_01.pdb
+F:\Programacion Gráfica  - Clases Separadas\bin\Debug\OpenTK.dll
+F:\Programacion Gráfica  - Clases Separadas\bin\Debug\OpenTK.pdb
+F:\Programacion Gráfica  - Clases Separadas\bin\Debug\OpenTK.xml
+F:\Programacion Gráfica  - Clases Separadas\obj\Debug\Programacion_Gráfica_Proyecto1.csprojAssemblyReference.cache
+F:\Programacion Gráfica  - Clases Separadas\obj\Debug\Programacion_Gráfica_Proyecto1.csproj.CoreCompileInputs.cache
+F:\Programacion Gráfica  - Clases Separadas\obj\Debug\Programacion_Gráfica_Proyecto1.csproj.CopyComplete
+F:\Programacion Gráfica  - Clases Separadas\obj\Debug\Proyecto1_01.exe
+F:\Programacion Gráfica  - Clases Separadas\obj\Debug\Proyecto1_01.pdb
+D:\Programacion Gráfica  - Clases Separadas\bin\Debug\Proyecto1_01.exe.config
+D:\Programacion Gráfica  - Clases Separadas\bin\Debug\Proyecto1_01.exe
+D:\Programacion Gráfica  - Clases Separadas\bin\Debug\Proyecto1_01.pdb
+D:\Programacion Gráfica  - Clases Separadas\bin\Debug\OpenTK.dll
+D:\Programacion Gráfica  - Clases Separadas\bin\Debug\OpenTK.pdb
+D:\Programacion Gráfica  - Clases Separadas\bin\Debug\OpenTK.xml
+D:\Programacion Gráfica  - Clases Separadas\obj\Debug\Programacion_Gráfica_Proyecto1.csproj.AssemblyReference.cache
+D:\Programacion Gráfica  - Clases Separadas\obj\Debug\Programacion_Gráfica_Proyecto1.csproj.CoreCompileInputs.cache
+D:\Programacion Gráfica  - Clases Separadas\obj\Debug\Programa.C10C1F17.Up2Date
+D:\Programacion Gráfica  - Clases Separadas\obj\Debug\Proyecto1_01.exe
+D:\Programacion Gráfica  - Clases Separadas\obj\Debug\Proyecto1_01.pdb
+D:\BACKUP DISCO ATHOS\Programacion Gráfica  - Clases Separadas\obj\Debug\Programacion_Gráfica_Proyecto1.csproj.AssemblyReference.cache
+D:\BACKUP DISCO ATHOS\Programacion Gráfica  - Clases Separadas\obj\Debug\Programacion_Gráfica_Proyecto1.csproj.CoreCompileInputs.cache
+D:\BACKUP DISCO ATHOS\Programacion Gráfica  - Clases Separadas\obj\Debug\Proyecto1_01.exe
+D:\BACKUP DISCO ATHOS\Programacion Gráfica  - Clases Separadas\obj\Debug\Proyecto1_01.pdb
+D:\BACKUP DISCO ATHOS\Programacion Gráfica  - Clases Separadas\bin\Debug\Proyecto1_01.exe.config
+D:\BACKUP DISCO ATHOS\Programacion Gráfica  - Clases Separadas\bin\Debug\Proyecto1_01.exe
+D:\BACKUP DISCO ATHOS\Programacion Gráfica  - Clases Separadas\bin\Debug\Proyecto1_01.pdb
+D:\BACKUP DISCO ATHOS\Programacion Gráfica  - Clases Separadas\bin\Debug\OpenTK.dll
+D:\BACKUP DISCO ATHOS\Programacion Gráfica  - Clases Separadas\bin\Debug\OpenTK.pdb
+D:\BACKUP DISCO ATHOS\Programacion Gráfica  - Clases Separadas\bin\Debug\OpenTK.xml
+D:\BACKUP DISCO ATHOS\Programacion Gráfica  - Clases Separadas\obj\Debug\Programacion_Gráfica_Proyecto1.csproj.CopyComplete
+C:\Users\adria\OneDrive\Documentos\Programacion Gráfica  - Clases Separadas\bin\Debug\Proyecto1_01.exe.config
+C:\Users\adria\OneDrive\Documentos\Programacion Gráfica  - Clases Separadas\bin\Debug\Proyecto1_01.exe
+C:\Users\adria\OneDrive\Documentos\Programacion Gráfica  - Clases Separadas\bin\Debug\Proyecto1_01.pdb
+C:\Users\adria\OneDrive\Documentos\Programacion Gráfica  - Clases Separadas\bin\Debug\OpenTK.dll
+C:\Users\adria\OneDrive\Documentos\Programacion Gráfica  - Clases Separadas\bin\Debug\OpenTK.pdb
+C:\Users\adria\OneDrive\Documentos\Programacion Gráfica  - Clases Separadas\bin\Debug\OpenTK.xml
+C:\Users\adria\OneDrive\Documentos\Programacion Gráfica  - Clases Separadas\obj\Debug\Programacion_Gráfica_Proyecto1.csproj.AssemblyReference.cache
+C:\Users\adria\OneDrive\Documentos\Programacion Gráfica  - Clases Separadas\obj\Debug\Programacion_Gráfica_Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Documentos\Programacion Gráfica  - Clases Separadas\obj\Debug\Programa.C10C1F17.Up2Date
+C:\Users\adria\OneDrive\Documentos\Programacion Gráfica  - Clases Separadas\obj\Debug\Proyecto1_01.exe
+C:\Users\adria\OneDrive\Documentos\Programacion Gráfica  - Clases Separadas\obj\Debug\Proyecto1_01.pdb

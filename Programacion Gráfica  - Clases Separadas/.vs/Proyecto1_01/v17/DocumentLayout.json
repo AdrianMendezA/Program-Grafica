@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adria\\OneDrive\\Documentos\\Programacion Gr\u00E1fica  - Clases Separadas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41503A3C-06FC-4D75-9EE1-3DC952E2C0E4}|Programacion_Gr\u00E1fica_Proyecto1.csproj|c:\\users\\adria\\onedrive\\documentos\\programacion gr\u00E1fica  - clases separadas\\extras\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41503A3C-06FC-4D75-9EE1-3DC952E2C0E4}|Programacion_Gr\u00E1fica_Proyecto1.csproj|solutionrelative:extras\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41503A3C-06FC-4D75-9EE1-3DC952E2C0E4}|Programacion_Gr\u00E1fica_Proyecto1.csproj|C:\\Users\\adria\\OneDrive\\Documentos\\Programacion Gr\u00E1fica  - Clases Separadas\\extras\\cara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41503A3C-06FC-4D75-9EE1-3DC952E2C0E4}|Programacion_Gr\u00E1fica_Proyecto1.csproj|solutionrelative:extras\\cara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41503A3C-06FC-4D75-9EE1-3DC952E2C0E4}|Programacion_Gr\u00E1fica_Proyecto1.csproj|C:\\Users\\adria\\OneDrive\\Documentos\\Programacion Gr\u00E1fica  - Clases Separadas\\extras\\objeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41503A3C-06FC-4D75-9EE1-3DC952E2C0E4}|Programacion_Gr\u00E1fica_Proyecto1.csproj|solutionrelative:extras\\objeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41503A3C-06FC-4D75-9EE1-3DC952E2C0E4}|Programacion_Gr\u00E1fica_Proyecto1.csproj|C:\\Users\\adria\\OneDrive\\Documentos\\Programacion Gr\u00E1fica  - Clases Separadas\\extras\\vertice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41503A3C-06FC-4D75-9EE1-3DC952E2C0E4}|Programacion_Gr\u00E1fica_Proyecto1.csproj|solutionrelative:extras\\vertice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41503A3C-06FC-4D75-9EE1-3DC952E2C0E4}|Programacion_Gr\u00E1fica_Proyecto1.csproj|C:\\Users\\adria\\OneDrive\\Documentos\\Programacion Gr\u00E1fica  - Clases Separadas\\extras\\escenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41503A3C-06FC-4D75-9EE1-3DC952E2C0E4}|Programacion_Gr\u00E1fica_Proyecto1.csproj|solutionrelative:extras\\escenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41503A3C-06FC-4D75-9EE1-3DC952E2C0E4}|Programacion_Gr\u00E1fica_Proyecto1.csproj|c:\\users\\adria\\onedrive\\documentos\\programacion gr\u00E1fica  - clases separadas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41503A3C-06FC-4D75-9EE1-3DC952E2C0E4}|Programacion_Gr\u00E1fica_Proyecto1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41503A3C-06FC-4D75-9EE1-3DC952E2C0E4}|Programacion_Gr\u00E1fica_Proyecto1.csproj|c:\\users\\adria\\onedrive\\documentos\\programacion gr\u00E1fica  - clases separadas\\extras\\punto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41503A3C-06FC-4D75-9EE1-3DC952E2C0E4}|Programacion_Gr\u00E1fica_Proyecto1.csproj|solutionrelative:extras\\punto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\OneDrive\\Documentos\\Programacion Gr\u00E1fica  - Clases Separadas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\adria\\OneDrive\\Documentos\\Programacion Gr\u00E1fica  - Clases Separadas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:20:28.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Punto.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\OneDrive\\Documentos\\Programacion Gr\u00E1fica  - Clases Separadas\\Extras\\Punto.cs",
+              "RelativeDocumentMoniker": "Extras\\Punto.cs",
+              "ToolTip": "C:\\Users\\adria\\OneDrive\\Documentos\\Programacion Gr\u00E1fica  - Clases Separadas\\Extras\\Punto.cs",
+              "RelativeToolTip": "Extras\\Punto.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:20:15.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Escenario.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\OneDrive\\Documentos\\Programacion Gr\u00E1fica  - Clases Separadas\\Extras\\Escenario.cs",
+              "RelativeDocumentMoniker": "Extras\\Escenario.cs",
+              "ToolTip": "C:\\Users\\adria\\OneDrive\\Documentos\\Programacion Gr\u00E1fica  - Clases Separadas\\Extras\\Escenario.cs",
+              "RelativeToolTip": "Extras\\Escenario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T12:04:53.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vertice.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\OneDrive\\Documentos\\Programacion Gr\u00E1fica  - Clases Separadas\\Extras\\Vertice.cs",
+              "RelativeDocumentMoniker": "Extras\\Vertice.cs",
+              "ToolTip": "C:\\Users\\adria\\OneDrive\\Documentos\\Programacion Gr\u00E1fica  - Clases Separadas\\Extras\\Vertice.cs",
+              "RelativeToolTip": "Extras\\Vertice.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAmwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T13:02:47.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Objeto.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\OneDrive\\Documentos\\Programacion Gr\u00E1fica  - Clases Separadas\\Extras\\Objeto.cs",
+              "RelativeDocumentMoniker": "Extras\\Objeto.cs",
+              "ToolTip": "C:\\Users\\adria\\OneDrive\\Documentos\\Programacion Gr\u00E1fica  - Clases Separadas\\Extras\\Objeto.cs",
+              "RelativeToolTip": "Extras\\Objeto.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowDYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T13:00:25.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cara.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\OneDrive\\Documentos\\Programacion Gr\u00E1fica  - Clases Separadas\\Extras\\Cara.cs",
+              "RelativeDocumentMoniker": "Extras\\Cara.cs",
+              "ToolTip": "C:\\Users\\adria\\OneDrive\\Documentos\\Programacion Gr\u00E1fica  - Clases Separadas\\Extras\\Cara.cs",
+              "RelativeToolTip": "Extras\\Cara.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T13:00:25.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\OneDrive\\Documentos\\Programacion Gr\u00E1fica  - Clases Separadas\\Extras\\Game.cs",
+              "RelativeDocumentMoniker": "Extras\\Game.cs",
+              "ToolTip": "C:\\Users\\adria\\OneDrive\\Documentos\\Programacion Gr\u00E1fica  - Clases Separadas\\Extras\\Game.cs",
+              "RelativeToolTip": "Extras\\Game.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAmwGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T13:00:25.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

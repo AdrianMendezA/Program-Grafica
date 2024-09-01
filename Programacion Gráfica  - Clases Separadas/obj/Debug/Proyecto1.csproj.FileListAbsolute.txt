@@ -1,0 +1,11 @@
+C:\Users\adria\Downloads\ELC102-Proyecto1-tarea-1 (1)\ELC102-Proyecto1-tarea-1\bin\Debug\Proyecto1_01.exe.config
+C:\Users\adria\Downloads\ELC102-Proyecto1-tarea-1 (1)\ELC102-Proyecto1-tarea-1\bin\Debug\Proyecto1_01.exe
+C:\Users\adria\Downloads\ELC102-Proyecto1-tarea-1 (1)\ELC102-Proyecto1-tarea-1\bin\Debug\Proyecto1_01.pdb
+C:\Users\adria\Downloads\ELC102-Proyecto1-tarea-1 (1)\ELC102-Proyecto1-tarea-1\bin\Debug\OpenTK.dll
+C:\Users\adria\Downloads\ELC102-Proyecto1-tarea-1 (1)\ELC102-Proyecto1-tarea-1\bin\Debug\OpenTK.pdb
+C:\Users\adria\Downloads\ELC102-Proyecto1-tarea-1 (1)\ELC102-Proyecto1-tarea-1\bin\Debug\OpenTK.xml
+C:\Users\adria\Downloads\ELC102-Proyecto1-tarea-1 (1)\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1.csproj.AssemblyReference.cache
+C:\Users\adria\Downloads\ELC102-Proyecto1-tarea-1 (1)\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\adria\Downloads\ELC102-Proyecto1-tarea-1 (1)\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1.csproj.CopyComplete
+C:\Users\adria\Downloads\ELC102-Proyecto1-tarea-1 (1)\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.exe
+C:\Users\adria\Downloads\ELC102-Proyecto1-tarea-1 (1)\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.pdb
